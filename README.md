@@ -1,6 +1,6 @@
 # Activity Engage
 
-Group: cs5500-fire-emblem Members: Xinyi Zhang, Zeyu Shen
+Group Members: Xinyi Zhang, Zeyu Shen
 
 Hello! This is Activity Engage, a fitness tracking application. The application supports adding datapoints and a range of queries to help users access fitness activities and insights.
 
